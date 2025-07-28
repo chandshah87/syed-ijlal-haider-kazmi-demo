@@ -1,2 +1,3 @@
-# syed-ijlal-haider-kazmi-demo
-This is My First repository
+# Cloud Quick -demo
+This is My First Git  Repository
+Author - Syed Ijlal Haider Kazmi 
